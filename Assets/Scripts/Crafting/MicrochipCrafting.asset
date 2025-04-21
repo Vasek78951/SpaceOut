@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81f1ddef124e42a4f90488f0269c1286, type: 3}
+  m_Name: MicrochipCrafting
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: e72a93e2ea6579a47802648ca7b5fe24, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: a5abbb6d4b4814e4a9a52e3c91da052e, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 9b8ba574c8fb0ab4f9077b00c7eee323, type: 2}
+    amount: 1
+  results:
+  - item: {fileID: 11400000, guid: a9b13e636763507469c9b8491ff5f7d0, type: 2}
+    amount: 1

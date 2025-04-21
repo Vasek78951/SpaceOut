@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c47deef973f66e4f8b906e9edb67c8c, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  palcementObjectsData:
+  - <Name>k__BackingField: Furnace
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 5913090125593370759, guid: 81499ba6800c1fd44bc706b2f5a7e3ac, type: 3}
+  - <Name>k__BackingField: Belt
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 5913090125593370759, guid: 850057196c4b7b6498f08aa605d7e4d3, type: 3}
+  - <Name>k__BackingField: Oxy
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 5913090125593370759, guid: 36dc66a11b41e6b458818816afad9353, type: 3}
+  - <Name>k__BackingField: Cabel
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 6903111108935877832, guid: 6f63ba03b14eebf47a8eeaab95c6bb6a, type: 3}
+  - <Name>k__BackingField: Net
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 5913090125593370759, guid: 7b671137a88a62048855d359703bff35, type: 3}
+  - <Name>k__BackingField: Crafting
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 5913090125593370759, guid: 5680dd15183475148b15b56b65152d5c, type: 3}
+  - <Name>k__BackingField: Electric workbench
+    <ID>k__BackingField: 6
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4058008491016629753, guid: 271c48bacb6fb5e4fa11460dc0186dba, type: 3}

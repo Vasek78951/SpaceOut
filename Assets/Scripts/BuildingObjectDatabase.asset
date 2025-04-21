@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b019a61b3dc4a448bc466da5600c945, type: 3}
+  m_Name: BuildingObjectDatabase
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Floor
+    <ID>k__BackingField: 0
+    <Object>k__BackingField: {fileID: 5297193036863977746, guid: 11cf704fc52ea0446b96f986375df08f, type: 3}
+    <requiredItems>k__BackingField:
+    - item: {fileID: 11400000, guid: 4bb0932c1eec0494fa195463451d4805, type: 2}
+      amount: 2
+  - <Name>k__BackingField: Wall
+    <ID>k__BackingField: 1
+    <Object>k__BackingField: {fileID: 7614874310923608509, guid: 47e99799cde1d7c469ed8ae5b4bbb64c, type: 3}
+    <requiredItems>k__BackingField:
+    - item: {fileID: 11400000, guid: 4bb0932c1eec0494fa195463451d4805, type: 2}
+      amount: 2

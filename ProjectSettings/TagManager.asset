@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Wall
+  - PlacableObject
+  - Ui
+  - Despawn
+  - PlayerCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platform
+  - Wall
+  - TopWall
+  - PlacableObject
+  - InteractableObject
+  - Moveable
+  - Despawn
+  - Item
+  - Net
+  - Reciver
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2793236779
+    locked: 0
+  - name: 2
+    uniqueID: 3649830349
+    locked: 0
+  - name: 3
+    uniqueID: 1212066559
+    locked: 0
+  - name: 4
+    uniqueID: 1814555067
+    locked: 0
+  - name: 5
+    uniqueID: 4257575851
+    locked: 0

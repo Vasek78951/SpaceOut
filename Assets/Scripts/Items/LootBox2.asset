@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85c33a6f56cdf5b4ab88948776da1594, type: 3}
+  m_Name: LootBox2
+  m_EditorClassIdentifier: 
+  itemName: Loot box
+  icon: {fileID: 21300000, guid: dbb682f325ea5c94f933793a3f8966d4, type: 3}
+  worldPrefab: {fileID: -7609049402769570634, guid: b9f2b377bf3df6746953e14692a699be, type: 3}
+  stacable: 0
+  maxStack: 0
+  count: 0
+  type: 6
+  category: 2
+  damage: 0
+  itemAnimator: {fileID: 0}
+  typeData: {fileID: 0}
+  consumeTime: 0
+  leftClick: {fileID: 0}
+  rightClick: {fileID: 7735942888810724907, guid: fadfb37afcc79b24c83a416a36e3662b, type: 3}
+  Items:
+  - item: {fileID: 11400000, guid: 7a3e327b8e802ab4d85f322f4dc6b38a, type: 2}
+    minAmount: 1
+    maxAmount: 3
+    dropChance: 0.8
+  - item: {fileID: 11400000, guid: 4bb0932c1eec0494fa195463451d4805, type: 2}
+    minAmount: 1
+    maxAmount: 3
+    dropChance: 0.8
+  - item: {fileID: 11400000, guid: 0727ba0257627054faba672032905b42, type: 2}
+    minAmount: 1
+    maxAmount: 3
+    dropChance: 0.8
+  - item: {fileID: 11400000, guid: 241b2293f0c05de408b9d79efb6bfe43, type: 2}
+    minAmount: 1
+    maxAmount: 3
+    dropChance: 0.8
+  - item: {fileID: 11400000, guid: 58bd9d81e638ae94ab29034d92c43486, type: 2}
+    minAmount: 1
+    maxAmount: 3
+    dropChance: 0.8

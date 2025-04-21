@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81f1ddef124e42a4f90488f0269c1286, type: 3}
+  m_Name: nevim
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: b07a3b365a1fc314a966b450a4a8befc, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 7a3e327b8e802ab4d85f322f4dc6b38a, type: 2}
+    amount: 1
+  results:
+  - item: {fileID: 11400000, guid: 58bd9d81e638ae94ab29034d92c43486, type: 2}
+    amount: 2

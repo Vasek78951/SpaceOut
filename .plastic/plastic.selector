@@ -1,0 +1,4 @@
+repository "SpaceOut@Vasek78951@cloud"
+  path "/"
+    br "/main"
+    co "/main"

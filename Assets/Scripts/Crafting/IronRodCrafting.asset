@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81f1ddef124e42a4f90488f0269c1286, type: 3}
+  m_Name: IronRodCrafting
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: c8438c195e1e0dc429e395624c828784, type: 2}
+    amount: 1
+  results:
+  - item: {fileID: 11400000, guid: e72a93e2ea6579a47802648ca7b5fe24, type: 2}
+    amount: 2

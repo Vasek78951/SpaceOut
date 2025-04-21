@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81f1ddef124e42a4f90488f0269c1286, type: 3}
+  m_Name: CircuitBoardCrafting
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: 58bd9d81e638ae94ab29034d92c43486, type: 2}
+    amount: 5
+  - item: {fileID: 11400000, guid: e72a93e2ea6579a47802648ca7b5fe24, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: ed0b18ffd3c09934bbb15d7b5b1804c3, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: 9b8ba574c8fb0ab4f9077b00c7eee323, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: b267bc372db55564cbf00fa869056f4e, type: 2}
+    amount: 2
+  results:
+  - item: {fileID: 11400000, guid: 185258144d3109945bc2800178209047, type: 2}
+    amount: 1
